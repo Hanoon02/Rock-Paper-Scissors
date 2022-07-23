@@ -1,3 +1,3 @@
 # Rock-Paper-Scissors
 
-## Empty Repo, will update soon
+### A sample website that lets you play rock, paper and scissors
